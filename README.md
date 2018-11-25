@@ -1,3 +1,8 @@
+https://github.com/angeloaquino/Bamazon
+Preview:
+https://drive.google.com/file/d/1mRN78VuufkIgAStqQwmgRcBU_7eY5f3Q/view
+
+
 Then create a Node application called bamazonCustomer.js. Running this application will first display all of the items available for sale. Include the ids, names, and prices of products for sale.
 The app should then prompt users with two messages.
 
